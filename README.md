@@ -7,7 +7,11 @@ This project is using
 3) subscribe-block.js file to put the code on IoT device which is just to listen to the same channel and to make sure the data is properly sent to pubnub BLOCKS
 
 Create your pubnub account here: https://www.pubnub.com/
+
 Here the code on Pubnub BLOCKS is using 3rd party API clicksend to send the SMS, create your account here: https://www.clicksend.com/us/
+
 Buy aeris SIMs here: https://store.aeriscloud.com/
+
 After getting your aeris SIMs, provision your device , get them ready in billing (in service) mode here: http://ssaerport.aeris.com/web/guest/dashboard
+
 aercloud account to access your data is here: http://neo.aercloud.aeris.com/
