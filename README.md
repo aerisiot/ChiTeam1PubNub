@@ -10,7 +10,7 @@ Create your pubnub account here: https://www.pubnub.com/
 
 Here the code on Pubnub BLOCKS is using 3rd party API clicksend to send the SMS, create your account here: https://www.clicksend.com/us/
 
-Buy aeris SIMs here: https://store.aeriscloud.com/
+Buy aeris SIMs here: https://store.aeriscloud.com/ , to activate simcards tutorial guidelines are here http://neo.aeris.com/support/get-started/get-started-overview/
 
 After getting your aeris SIMs, provision your device , get them ready in billing (in service) mode here: http://ssaerport.aeris.com/web/guest/dashboard
 
